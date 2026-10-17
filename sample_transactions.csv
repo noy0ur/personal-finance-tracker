@@ -1,0 +1,24 @@
+date,type,category,description,amount
+2026-01-01,Income,Salary,Monthly salary,45000
+2026-01-02,Expense,Housing,House rent,12000
+2026-01-03,Expense,Food,Groceries,1850
+2026-01-05,Expense,Transport,Bus and auto,650
+2026-01-07,Expense,Utilities,Electricity bill,1250
+2026-01-10,Expense,Entertainment,Movie,500
+2026-01-15,Income,Other,Freelance work,3500
+2026-01-18,Expense,Health,Pharmacy,400
+2026-02-01,Income,Salary,Monthly salary,45000
+2026-02-02,Expense,Housing,House rent,12000
+2026-02-04,Expense,Food,Groceries,2200
+2026-02-06,Expense,Transport,Travel,800
+2026-02-08,Expense,Shopping,Clothes,1800
+2026-02-12,Expense,Utilities,Internet and electricity,1600
+2026-02-15,Income,Other,Freelance work,2000
+2026-02-20,Expense,Education,Online course,999
+2026-03-01,Income,Salary,Monthly salary,45000
+2026-03-02,Expense,Housing,House rent,12000
+2026-03-03,Expense,Food,Groceries,1950
+2026-03-06,Expense,Transport,Travel,700
+2026-03-10,Expense,Entertainment,Streaming subscription,399
+2026-03-14,Expense,Health,Clinic visit,600
+2026-03-18,Expense,Savings,Monthly savings transfer,5000
